@@ -1,0 +1,7 @@
+int main()
+{
+    double x;
+    cout << "Please enter a degree: " << endl;
+    cin >> x;
+    cout << "The value is " << sine(x)/cos(x) << endl;
+}

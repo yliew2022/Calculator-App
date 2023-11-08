@@ -1,0 +1,5 @@
+main(){
+   int n;
+   cout << "Enter Number of lines: "; cin >> n;
+   genPascalsTriangle(n);
+}

@@ -1,0 +1,6 @@
+int main()
+{
+    cout << "Please enter a degree to convert: ";
+    cin >> x;
+    cout << "The converted degreet to radian(exact) is: " << x * conversion;
+}

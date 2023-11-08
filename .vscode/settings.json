@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "ostream": "c",
+        "cos.h": "c",
+        "trigonometry.h": "c",
+        "complexnumber.cpp": "c",
+        "iostream": "cpp",
+        "combinatrix.h": "c"
+    }
+}

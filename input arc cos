@@ -1,0 +1,9 @@
+int main()
+{
+    double x;
+    cout << "Please enter a radian: " << endl;
+    cin >> x;
+    cout << x;
+    cout << "The result is " << (pi/2) - arcsin(x);
+    
+}

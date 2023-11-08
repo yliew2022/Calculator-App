@@ -1,0 +1,8 @@
+int main()
+{
+    double x;
+    cout << "Please enter a number: " << endl;
+    cin >> x;
+    cout << "The result is " << sine(x);
+    
+}
